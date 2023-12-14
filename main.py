@@ -1,13 +1,13 @@
 
 #     Important:
-#     用下面命令把ui界面生成python程序文件
+#     用下面命令把ui界面生成python程序文件大幅度发
 #     pyside6-uic ui.ui -o ui_form.py
 from ui_form import Ui_Dialog
 import sys
 import serial
 import threading
 import random
-import os
+import os大发发阿道夫
 import math
 import time
 from datetime import datetime
